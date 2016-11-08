@@ -9,4 +9,4 @@ Will show all staff members in the given group (e.g. `staff` or `cofounders`).
 
 `[sfrex]`
 
-Will pick a member of the `staff` group based on the current day. For use with Rex the Cleanosaurus.
+Will pick a member of the `staff` group based on the current day. For use with Rex the Cleanosaur.
